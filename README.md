@@ -1,1 +1,2 @@
 - <p>A short project for my portfolio.</p>
+- <p>Simply setting up Python & successfully executing an program.</p>
